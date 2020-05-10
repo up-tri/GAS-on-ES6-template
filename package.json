@@ -1,0 +1,15 @@
+{
+  "name": "GAS-on-ES6-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:up-tri/GAS-on-ES6-example.git",
+  "author": "up-tri <contact@up-tri.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@google/clasp": "^2.3.0",
+    "@types/google-apps-script": "^1.0.14"
+  },
+  "scripts": {
+    "clasp": "clasp"
+  }
+}
